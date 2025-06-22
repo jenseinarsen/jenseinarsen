@@ -1,5 +1,8 @@
-Working in logistics
-Learning to code
+Arch btw,
+
+Logistics
+
+Learning to (vibe)code
 
 Python / HTML / CSS
 
